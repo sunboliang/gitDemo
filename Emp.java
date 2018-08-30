@@ -10,4 +10,8 @@ public class Emp implements Serializable {
 
 	private Integer empno;
 	private String empname;
+	private Date hiredate;
+	private Double sal;
+	private Double comm;
+	private Emp mgr;
 }
