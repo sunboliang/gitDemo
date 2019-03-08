@@ -4,5 +4,6 @@ public class Demo
 	{
 		System.out.println("Hello Demo!");
 		System.out.println("githubä¿®æ”¹ï¼ï¼");
+		System.out.println("git ±¾µØĞŞ¸Ä£¡£¡£¡");
 	}
 }
